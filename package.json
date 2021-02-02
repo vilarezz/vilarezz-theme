@@ -1,0 +1,32 @@
+{
+    "name": "vilarezz-theme",
+    "displayName": "vilarezz-theme",
+    "description": "A bright, modern, contrasting theme - created for you, by Gil Vilarezz.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+	"keywords": [
+		"Gil Vilarezz",
+		"dark",
+		"modern",
+		"contrasting"
+    ],
+    "icon": "icon.jpg",
+    "galleryBanner": {
+		"color": "#262327",
+		"theme": "dark"
+	},
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vilarezz Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Vilarezz Theme-color-theme.json"
+            }
+        ]
+    }
+}
