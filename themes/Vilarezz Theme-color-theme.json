@@ -25,9 +25,9 @@
 		"list.errorForeground": "#10C169",
 
 		// Status bar
-		"statusBar.background": "#FFBD59",
+		"statusBar.background": "#222423",
 		"statusBar.noFolderBackground" : "#222423",
-		"statusBar.foreground": "#ffffff",
+		"statusBar.foreground": "#FFBD59",
 		"statusBar.border": "#222423",
 
 		// Text colors
@@ -37,7 +37,7 @@
 		"gitDecoration.conflictingResourceForeground": "#ff62b1",
 		"gitDecoration.untrackedResourceForeground": "#4bf53c",
 		"gitDecoration.ignoredResourceForeground": "#31cfff",
-		"gitDecoration.modifiedResourceForeground": "#ba66ff",
+		"gitDecoration.modifiedResourceForeground": "#e8ff66",
 		"gitDecoration.addedResourceForeground": "#fc4384",
 
 		// Gutter

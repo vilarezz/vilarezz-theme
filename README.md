@@ -34,7 +34,7 @@ Install it from VS Code extensions.
 
 ## Author
 
-👤 **Mayk Brito**
+👤 **Gil Vilarezz**
 
 * Website: gitshowcase.com/vilarezz
 * Twitter: [@vilarezz](https://twitter.com/vilarezz)

@@ -2,7 +2,16 @@
     "name": "vilarezz-theme",
     "displayName": "vilarezz-theme",
     "description": "A bright, modern, contrasting theme - created for you, by Gil Vilarezz.",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "publisher": "vilarezz",
+    "license": "MIT",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/vilarezz/vilarezz-theme.git"
+	},
+    "author": {
+        "name": "Gil Vilarezz"
+    },
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -15,9 +24,9 @@
 		"modern",
 		"contrasting"
     ],
-    "icon": "icon.jpg",
+    "icon": "icon.png",
     "galleryBanner": {
-		"color": "#262327",
+		"color": "#222423",
 		"theme": "dark"
 	},
     "contributes": {
